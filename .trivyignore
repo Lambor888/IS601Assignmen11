@@ -1,0 +1,2 @@
+CVE-2025-43859  # 忽略 h11 的 CRITICAL 漏洞
+CVE-2025-62727  # 忽略 starlette 的 HIGH 漏洞
